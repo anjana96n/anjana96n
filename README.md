@@ -8,7 +8,7 @@
 - 📖 I’m currently diving into **DevOps**  
 - 💡 Ask me about **Angular, React, JAVA, SpringBoot, NodeJS**  
 - 📩 Reach me at **anjananuwan8@gmail.com**  
-- 🎉 Fun fact: "Code is like humor. When you have to explain it, it’s bad!" 😂💻  
+- 🎉 if you can't explain it simply you don't understand it💻  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
