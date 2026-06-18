@@ -5,7 +5,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=anjana96n&label=Profile%20views&color=0e75b6&style=flat" alt="anjana-nuwansiri" /></p>
 
 - 📖 I’m currently diving into **DevOps**  
-- 💡 Ask me about ** JAVA, SpringBoot, Angular, React, NodeJS**  
+- 💡 Ask me about **JAVA, SpringBoot, Angular, React, NodeJS**  
 - 📩 Reach me at **anjananuwan8@gmail.com**  
 - 🎉 if you can't explain it simply you don't understand it💻  
 
